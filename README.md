@@ -1,14 +1,14 @@
 # WordSearchSolver
-Python script which will scan (brute force) a word search grid for the list of search words. 
+Python script which will scan (brute force) a word search grid for the list of search words.   
 This is done in parallel, where each search word gets its own process to improve performance.
 
-The scripts uses pairs (x,y) where:
+The scripts uses pairs (x,y) where:  
 
 0 ----- x ------>
-|
-|
-|
-y
+|  
+|  
+|  
+y  
 |
 |
 |
