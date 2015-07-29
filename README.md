@@ -4,18 +4,18 @@ This is done in parallel, where each search word gets its own process to improve
 
 The scripts uses pairs (x,y) where:  
 
-0 ----- x ------>
+0 ----- x ------>  
 |  
 |  
 |  
 y  
-|
-|
-|
-v
+|  
+|  
+|  
+v  
 
-and an map of directions where (p=curr point):
+and an map of directions where (p=curr point):  
 
-0 1 2
-3 p 5
-6 7 8
+0 1 2  
+3 p 5  
+6 7 8  
